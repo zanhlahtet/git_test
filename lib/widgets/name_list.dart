@@ -10,10 +10,10 @@ class NameList extends StatelessWidget {
     return ListView(
       children: <Widget>[
         ListTile(
-          title: Text("hello"),
+          title: Text("hi world 2"),
         ),
         ListTile(
-          title: Text("hello"),
+          title: Text("good evening"),
         ),
       ],
     );
